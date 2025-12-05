@@ -1,0 +1,10 @@
+{
+  "name": "syml-sso-service",
+  "version": "1.0.0",
+  "description": "Centralized SSO service for SYML platform",
+  "main": "index.mjs",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.0.0"
+  }
+}
